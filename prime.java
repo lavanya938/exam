@@ -3,7 +3,7 @@ public class prime {
 
     public static void main(String[] args) {
 
-        int num = 51;
+        int num = 2;
 
         System.out.println(isPrime(num) ? "Prime" : "Not Prime");
 
